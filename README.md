@@ -1,8 +1,8 @@
-\# Night Shift — Unity C# Source Code
+ Night Shift — Unity C# Source Code
 
 
 
-\*\*Night Shift\*\* is a short, retro-inspired 3D horror game developed in Unity in under 20 days.
+Night Shift is a short, retro-inspired 3D horror game developed in Unity in under 20 days.
 
 
 
@@ -10,15 +10,14 @@ This repository contains the game's original C# gameplay scripts, organized by s
 
 
 
-\*\*\[Play Night Shift on itch.io](https://alastair-960.itch.io/night-shift)\*\*
+[Play Night Shift on itch.io](https://alastair-960.itch.io/night-shift)\*\*
 
 
 
-\---
 
 
 
-\## Game Overview
+ Game Overview
 
 
 
@@ -30,67 +29,66 @@ The project focuses on integrating several gameplay systems into a complete, pla
 
 
 
-\## Implemented Systems
+ Implemented Systems
+
+
+Enemy AI
+
+Enemy roaming and navigation.
+
+Investigation behavior.
+
+Player detection and chase behavior.
+
+Enemy animation and audio integration.
 
 
 
-\### Enemy AI
+Customer System
 
-\- Enemy roaming and navigation.
+Customer interactions and order handling.
 
-\- Investigation behavior.
-
-\- Player detection and chase behavior.
-
-\- Enemy animation and audio integration.
+Customer appearance randomization.
 
 
 
-\### Customer System
+Interaction \& Puzzle Systems
 
-\- Customer interactions and order handling.
+Interactive environmental objects.
 
-\- Customer appearance randomization.
+Code-based puzzles and locks.
 
-
-
-\### Interaction \& Puzzle Systems
-
-\- Interactive environmental objects.
-
-\- Code-based puzzles and locks.
-
-\- Puzzle clues and player interaction mechanics.
+Puzzle clues and player interaction mechanics.
 
 
 
-\### Player Mechanics
+Player Mechanics
 
-\- Player interaction systems.
+Player interaction systems.
 
-\- Flashlight and battery mechanics.
+Flashlight and battery mechanics.
 
-\- Battery pickups and resource management.
-
-
-
-\### Additional Systems
-
-\- Basic crafting mechanics.
-
-\- Gameplay managers and state handling.
-
-\- User interface elements.
-
-\- Gameplay audio systems.
+Battery pickups and resource management.
 
 
 
-\---
+Additional Systems
+
+Basic crafting mechanics.
+
+Gameplay managers and state handling.
+
+User interface elements.
+
+Gameplay audio systems.
 
 
 
-\## Source Code Organization
+
+
+
+
+Source Code Organization
 
 
 
