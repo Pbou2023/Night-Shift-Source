@@ -124,15 +124,15 @@ The `Scripts/` directory contains the following categories:
 
 
 
-\*\*Engine:\*\* Unity  
+Engine: Unity  
 
-\*\*Language:\*\* C#  
+Language: C#  
 
-\*\*Development Time:\*\* Under 20 days  
+Development Time: Under 20 days  
 
-\*\*Status:\*\* Completed / Released  
+Status: Completed / Released  
 
-\*\*Platform:\*\* Windows
+Platform: Windows
 
 
 
@@ -159,6 +159,5 @@ As a result, the scripts are provided for inspection and reference and are not i
 To experience the completed game, visit the itch.io page:
 
 
-
-\*\*\[Night Shift — Play / Download](https://alastair-960.itch.io/night-shift)\*\*
+[Night Shift — Play / Download](https://alastair-960.itch.io/night-shift)
 
